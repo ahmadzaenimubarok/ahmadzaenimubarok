@@ -3,7 +3,7 @@
   
   <h1>Hi there 👋, I'm Ahmad Zaeni Mubarok</h1>
   
-  **PHP & Python Backend Developer · AI Integration Specialist**  
+  **Backend Developer | PHP · Python · AI/LLM API Integration**  
   I come in, read the codebase, and deliver — without the back-and-forth.
 </div>
 
